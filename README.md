@@ -25,14 +25,6 @@ I’m passionate about transforming real business problems into elegant software
 
 ---
 
-### 🧱 Current Project
-
-🌀 **[Coliix]** — A modern logistics & delivery SaaS platform  
-> Managing parcels, pricing, returns, treasury, and operational workflows — all in one multi-tenant system.  
-> *Built with Laravel + Next.js 14 + ShadCN UI.*
-
----
-
 ### 🌍 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayoub-chahid/) — professional network  
